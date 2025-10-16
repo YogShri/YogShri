@@ -1,49 +1,35 @@
-<!-- 💫 Stylish & Colorful GitHub Profile README for Yogesh Kshirsagar 💫 -->
+<!-- 🌟 Stunning GitHub Profile README 🌟 -->
 
-<h1 align="center">
-  🌈 Hey, I'm <span style="color:#00bfff;">Yogesh Kshirsagar</span> 👋  
-</h1>
+<h1 align="center">Hey there! 👋 I'm Yogesh Kshirsagar</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="coding animation">
-</p>
+<h3 align="center">💻 BCA Student | Java & .NET Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  🎓 <b>BCA Student</b> • 💻 <b>Developer</b> • 🌟 <b>Tech Enthusiast</b><br>
-  <i>I turn ideas into creative and functional projects ✨</i>
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="200"/>
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### 🌟 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,bootstrap,git,github,vscode" />
-</p>
-
----
-
-### 🧩 Featured Projects
-| 💡 Project | 🔍 Description |
-|------------|----------------|
-| 🛒 **E-Commerce Website** | Shopping site with product listing & cart features |
-| 🧠 **Quiz App** | Interactive quiz app with score tracking |
-| 💬 **WhatsApp Clone** | Chat-style project built for learning UI 💚 |
+🚀 Passionate about turning ideas into reality through code  
+🎓 Pursuing **BCA (Bachelor of Computer Applications)**  
+💡 Skilled in **Java, .NET Core, MySQL, HTML, CSS**  
+🎯 Goal: To become a **Full Stack Developer**  
+📧 Reach me at: **[Yogeshgk200@gmail.com](mailto:Yogeshgk200@gmail.com)**  
+🔗 Connect on [**LinkedIn**](https://www.linkedin.com/in/yogeshkshirsagar28)  
 
 ---
 
-### 💫 Connect With Me
+### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="mailto:Yogeshgk200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yogeshkshirsagar28">
-    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/YogShri">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
@@ -51,18 +37,43 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YogShri&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogShri&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YogShri&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogShri&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogShri&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250" alt="thank you animation">
-</p>
-
-<h3 align="center" style="color:#00bfff;">✨ “Code. Create. Repeat.” ✨</h3>
+### 🌈 Fun Zone
 
 <p align="center">
-  Made with ❤️ by <b>Yogesh Kshirsagar</b>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
 </p>
+
+- 🧩 Love solving **programming challenges**  
+- 🎵 Music + Code = Focus Mode ON  
+- ☕ Coffee fuels my **coding marathons**  
+- 💬 Favorite Quote: *“Code is like humor — when you have to explain it, it’s bad!”*  
+
+---
+
+### ✨ Connect With Me
+
+<p align="center">
+  <a href="mailto:Yogeshgk200@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yogeshkshirsagar28"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/YogShri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🎬 Bollywood Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250"/>
+</p>
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
