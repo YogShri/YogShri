@@ -70,10 +70,13 @@
 
 ---
 
-### 🎬 Bollywood Vibes
+### 🎨 Cartoon Zone
 
 <p align="center">
-  <img src="https://4kwallpapers.com/images/wallpapers/shah-rukh-khan-i-am-srk-with-black-and-white-hd-wallpaper-1920x1080.jpg" width="200" alt="Shah Rukh Khan"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
 </p>
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+- 🖌️ Huge fan of **cartoons & animation**  
+- 📺 Enjoy classic cartoons in my free time  
+- 🎨 Love **drawing and sketching ideas**  
+- 😄 Fun mantra: *“Stay animated, stay happy!” Thanks for visiting my profile! ✨</h3>
