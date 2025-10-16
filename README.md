@@ -1,11 +1,11 @@
-<!-- 🌟 Stunning GitHub Profile README 🌟 -->
+<!-- 🌟 Ultra-Attractive GitHub Profile README 🌟 -->
 
 <h1 align="center">Hey there! 👋 I'm Yogesh Kshirsagar</h1>
 
 <h3 align="center">💻 BCA Student | Java & .NET Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="180"/>
 </p>
 
 ---
@@ -34,23 +34,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YogShri&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogShri&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogShri&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
 ### 🌈 Fun Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180"/>
 </p>
 
 - 🧩 Love solving **programming challenges**  
@@ -70,10 +57,10 @@
 
 ---
 
-### 🎬 Bollywood Vibes
+### 🕺 SRK Style
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="220"/>
 </p>
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
