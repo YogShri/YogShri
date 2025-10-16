@@ -73,7 +73,7 @@
 ### 🎬 Bollywood Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250"/>
+  <img src="https://4kwallpapers.com/images/wallpapers/shah-rukh-khan-i-am-srk-with-black-and-white-hd-wallpaper-1920x1080.jpg" width="200" alt="Shah Rukh Khan"/>
 </p>
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
