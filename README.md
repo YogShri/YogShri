@@ -73,10 +73,7 @@
 ### 🎨 Cartoon Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
+  <img src="https://giphy.com/stickers/omjm-omiljomil-omiljomilkedaengee-KGjlaKWM8L2yoLrky6" width="250"/>
 </p>
 
-- 🖌️ Huge fan of **cartoons & animation**  
-- 📺 Enjoy classic cartoons in my free time  
-- 🎨 Love **drawing and sketching ideas**  
-- 😄 Fun mantra: *“Stay animated, stay happy!” Thanks for visiting my profile! ✨</h3>
+<h3>Thanks for visiting my profile! ✨</h3>
