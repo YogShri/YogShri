@@ -70,7 +70,7 @@
 
 ---
 
-### 🎨 Cartoon Zone
+<h3>Thanks for visiting my profile! ✨</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/KGjlaKWM8L2yoLrky6/giphy.gif" width="250" alt="Omil Jomil Dance"/>
