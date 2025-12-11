@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" height="45">
 </p>
 
-### 🗄️ Databases (WORKING ICONS)  
+### 🗄️ Databases 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" height="45">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="45">
@@ -87,7 +87,7 @@
 
 ---
 
-# 📊 Professional GitHub Analytics (100% WORKING)
+# 📊 GitHub Analytics
 
 ### 🔹 Profile Summary  
 <p align="center">
@@ -108,7 +108,6 @@
 
 ---
 
-# 🌟 **Professional Corporate Outro (Premium Black Divider)**
 
 ---
 ---
