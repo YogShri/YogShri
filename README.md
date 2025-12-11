@@ -44,7 +44,7 @@
 
 ### 🧰 Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,idea,figma" height="45">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,idea,figma,linux,eclipse" height="45">
 </p>
 
 ---
