@@ -67,11 +67,11 @@
     <img src="https://skillicons.dev/icons?i=github" height="45">
   </a>
 
-  <a href="https://www.linkedin.com/in/yogeshkshirsagar28">
+  <a href="https://www.linkedin.com/in/yogeshkshirsagar3128">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45">
   </a>
 
-  <a href="https://instagram.com/your_insta">
+  <a href="https://instagram.com/yorxshii">
     <img src="https://skillicons.dev/icons?i=instagram" height="45">
   </a>
 
